@@ -5,4 +5,4 @@
 The repo appears empty because this consist of a Virtual Machine which is too big to be uploaded here.
 
 ## Grade
-I did the Bonus part so I got **125**.
+I also did the Bonus part so I got **125**.
